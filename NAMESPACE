@@ -1,0 +1,5 @@
+useDynLib(ExtrFunReg, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+import(RcppArmadillo)
+import(parallelDist)
+exportPattern("^[[:alpha:]]+")

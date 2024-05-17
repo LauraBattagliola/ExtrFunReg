@@ -1,0 +1,13 @@
+Package: ExtrFunReg
+Type: Package
+Title: "Scalar-on-function Extremile Regression"
+Version: 1.0
+Date: 2024-01-24
+Author: Maria Laura Battagliola
+Maintainer: Maria Laura Battagliola <mlbattagliola@gmail.com>
+Description: The package performs estimation and prediction in the context of scalar-on-function extremile regression. It is based on a modification of package fllr, which performs local linear scalar-on-function regression.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.12), RcppArmadillo,  roxygen2, parallelDist
+RoxygenNote: 7.2.3
+LinkingTo: RcppArmadillo, Rcpp, parallelDist, evmix
+Encoding: UTF-8

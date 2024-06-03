@@ -1,5 +1,5 @@
 # ExtrFunReg 
-This package performs extremile scalar-on-function regression from "Extremile scalar-on-function regression with application to climate scenarios" by M.L. Battagliola and M. Bladt (2024).
+This package performs extremile scalar-on-function regression from ["Extremile scalar-on-function regression with application to climate scenarios" by M.L. Battagliola and M. Bladt (2024)](arXiv:2405.20817).
 
 To download the package, type in R
 
